@@ -1,13 +1,13 @@
 import { useState } from 'react';
-import Footer from './component/Footer';
-import Hero from './component/Hero';
-import Navigation from './component/Navigation';
-import Courses from './component/Courses';
-import Testimony from './component/Testimony';
-import Newsletter from './component/Newsletter';
-import { navigation, hero, stats, categories, courses, testimonials, signupContent, footerContent } from './component/data';
-// import Study from './component/Study';
-// import Test from './component/Test';
+import Footer from './Components/Footer';
+import Hero from './Components/Hero';
+import Navigation from './Components/Navigation';
+import Courses from './Components/Courses';
+import Testimony from './Components/Testimony';
+import Newsletter from './Components/Newsletter';
+import { navigation, hero, stats, categories, courses, testimonials, signupContent, footerContent } from './Components/data';
+// import Study from './Component/Study';
+// import Test from './Component/Test';
 
 
 export default function App() {

@@ -24,3 +24,4 @@ export default function Hero({ content, stats }) {
         </section>
     );
 }
+
